@@ -1,6 +1,6 @@
 
 <div align='center'>
-![Alt text](src/images/hero/logo.png)
+<img style="width:16%" src='src/images/hero/logo.png'/>
 </div>
 # About this project 
 
