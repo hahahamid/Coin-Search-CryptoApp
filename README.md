@@ -2,6 +2,7 @@
 <div align='center'>
 <img style="width:16%" src='src/images/hero/logo.png'/>
 </div>
+
 # About this project 
 
 Coindom is a website that allows users to search for information about various cryptocurrencies in real-time. The website is designed to provide users with accurate and up-to-date information about the price, market cap, trading volume, and other key metrics of cryptocurrencies.
@@ -16,6 +17,16 @@ The website is connected to the Coingecko API, which is a popular source of data
 » Coingecko API
 
 # Screenshots 📸
+
+![Alt text](./src/images/screenshots/image.png)
+
+![Alt text](./src/images/screenshots/image-1.png) 
+
+![Alt text](./src/images/screenshots/image-2.png)
+
+![Alt text](./src/images/screenshots/image-3.png) 
+
+
 
 
 

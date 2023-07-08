@@ -14,7 +14,7 @@ function Footer() {
             <p>Terms of Use</p>
             <p>Resources</p>
           </div>
-          <div className="copyright">Hamid's work of art </div>
+          <div className="copyright">&copy; Hamid's work of art </div>
         </div>
       </footer>
     </>

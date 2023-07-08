@@ -947,6 +947,8 @@ footer {
 
 
 .copyright{
-  bottom: 10px;
-  color: wheat;
+  position: absolute;
+  bottom: 60px;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
