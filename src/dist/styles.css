@@ -258,7 +258,7 @@ nav a {
   }
 }
 .hero-content__text {
-  font-size: 7rem;
+  font-size: 6rem;
   color: #f3f2f4;
   max-width: 104rem;
   height: -moz-fit-content;
@@ -268,6 +268,8 @@ nav a {
   line-height: 1.1;
   position: relative;
   margin: 0 auto;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 300;
 }
 @media (max-width: 1200px) {
   .hero-content__text {
@@ -358,6 +360,7 @@ nav a {
   margin: 0 auto;
   text-align: center;
   margin-top: 3rem;
+  font-family: 'Hind', sans-serif;
 }
 @media (max-width: 750px) {
   .coin-slider {
