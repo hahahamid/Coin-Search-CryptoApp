@@ -300,8 +300,8 @@ nav a {
 
 .btc-float {
   position: absolute;
-  top: -190px;
-  left: -277px;
+  top: -220px;
+  left: -255px;
   animation: move 2s infinite;
 }
 @media (max-width: 1200px) {
@@ -322,8 +322,8 @@ nav a {
 
 .eth-float {
   position: absolute;
-  top: -190px;
-  right: -277px;
+  top: -220px;
+  right: -255px;
   animation: move 2s infinite;
 }
 @media (max-width: 1200px) {
@@ -355,8 +355,10 @@ nav a {
   height: 21rem;
   align-items: center;
   display: flex;
+  gap: 110px;
   justify-content: space-between;
   padding: 0 1rem;
+  padding-top: 50px;
   margin: 0 auto;
   text-align: center;
   margin-top: 3rem;
