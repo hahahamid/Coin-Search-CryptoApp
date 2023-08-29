@@ -1,3 +1,15 @@
+
+@font-face {
+  font-family: font1;
+  src: url(tommy.otf);
+}
+
+@font-face {
+  font-family: font2;
+  src: url(Donkin.otf);
+}
+
+
 * {
   box-sizing: border-box;
   margin: 0;
