@@ -85,7 +85,7 @@ a {
   }
 }
 nav {
-  font-family: "Space Grotesk", sans-serif;
+
   position: absolute;
   top: 0;
   right: 0;
@@ -101,6 +101,8 @@ nav a {
   justify-content: center;
   align-items: center;
   gap: 10px;
+  font-family: 'Josefin Sans', sans-serif;
+
 }
 
 .mainLogo img{
@@ -111,21 +113,23 @@ nav a {
 .navbar {
   display: flex;
   justify-content: space-between;
-  max-width: 120rem;
+  max-width: 126rem;
   margin: 0 auto;
   font-size: 2rem;
   padding: 2rem 1rem;
   align-items: center;
   color: #f3f2f4;
+
 }
 .navbar p {
   font-size: 3rem;
   font-weight: 700;
   cursor: pointer;
+  
 }
 .navbar ul {
   display: flex;
-  gap: 4rem;
+  gap: 5rem;
   list-style: none;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -699,15 +703,29 @@ nav a {
   justify-content: center;
   align-items: center;
   position: relative;
+  
 }
+
+.join-content__text h2{
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+}
+
+.join-content__text a{
+  font-family: 'Josefin Sans', sans-serif;
+  /* text-transform: uppercase; */
+}
+
+
 .join-content__btc, .join-content__eth {
   width: 8rem;
   height: 8rem;
   position: absolute;
+
 }
 .join-content__btc {
-  top: 50px;
-  left: 215px;
+  top: 20px;
+  left: -60px;
   animation: movecoin 2s infinite;
 }
 @media (max-width: 1100px) {
@@ -726,8 +744,8 @@ nav a {
   }
 }
 .join-content__eth {
-  top: 50px;
-  right: 215px;
+  top: 20px;
+  right: -60px;
   animation: movecoin 2s infinite;
 }
 @media (max-width: 1100px) {

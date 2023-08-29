@@ -11,7 +11,7 @@ function Join() {
             <img alt="coin_img" className="join-content__eth" src={Eth} />
             <div className="join-content__text">
               <h2>
-                join us on <br /> <span>discord</span>
+                join us on <span>discord</span>
               </h2>
               <p>Keep an eye on all your crypto at one place.</p>
               <a rel="noreferrer" target="_blank" href="https://discord.com/">
